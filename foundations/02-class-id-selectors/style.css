@@ -1,0 +1,18 @@
+.odd {
+    background-color: lightcoral;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.twofourpx {
+    font-size: 24px;
+}
+
+#divtwo {
+    color: blue;
+    font-size: 36px;
+}
+
+#divfour {
+    background-color: lightgreen;
+    font-weight: bold;
+}
